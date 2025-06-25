@@ -63,7 +63,7 @@
     <div class="logo">Abir Portfolio</div>
     <div class="nav-links">
       <a href="#home">Home</a>
-      <a href="#about">About</a>
+      <a href="{{url('/about)}}">About</a>
       <a href="#projects">Projects</a>
       <a href="#contact">Contact</a>
     </div>
